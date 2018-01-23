@@ -1,0 +1,56 @@
+html body {
+	background-image: url("Untitled.jpg");
+	background-size:	cover;
+	height:100%;
+}
+
+.vertical-center {
+	min-height: 	100%;
+	min-height: 	100vh;
+	display: 		flex;
+	align-items:	center;
+}
+
+#resizeable-container {
+	padding-bottom: 50px;
+}
+
+.jumbotron {
+	background:			none;
+	font-family:	'Source Sans Pro';
+}
+
+h1.name {
+	text-align:	center;
+	font-size:	90px;
+	color:		white;
+}
+
+p.description {
+	text-align:	center;
+	font-size:	30px;
+	color:		white;
+}
+
+.link-box {
+	padding-top: 25px;
+}
+
+.center-block {
+	align-items:	center;
+	text-align:		center;
+}
+
+.fa {
+	font-size:	125px;
+	padding:		15px;
+	color:		white;
+}
+
+.btn-default {
+	background-color:	yellow;
+	border-color:		yellow;
+	color: 				CornflowerBlue;
+	font-family: 		sans-serif;
+}
+
